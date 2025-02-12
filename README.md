@@ -33,7 +33,17 @@ By using this **interactive dashboard**, businesses can make informed decisions,
 - **Top Performers** 🏆: Highest revenue-generating customers and products.
 
 ### 🖥️ Interactive Dashboard
-- **Built with React** ⚛️ for a dynamic, user-friendly experience.
+- Built with React ⚛️ for a dynamic, user-friendly experience.
+  
+![Screenshot 2025-02-12 121623](https://github.com/user-attachments/assets/1158d59d-ec5a-4806-8b1e-2669ccc00db3)
+
+![Screenshot 2025-02-12 121641](https://github.com/user-attachments/assets/714d934c-f4e8-455d-9246-e6a341bf29ed)
+
+
+- Built with Power Bi ⚛️ for a dynamic, user-friendly experience.
+
+![Screenshot 2025-02-12 115127](https://github.com/user-attachments/assets/259119fa-8faf-47e4-98ee-af7b472b041c)
+
 - **Customizable charts & filters** to drill down insights.
 
 ## 📌 Usage
